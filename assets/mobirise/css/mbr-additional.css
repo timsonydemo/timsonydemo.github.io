@@ -2761,32 +2761,6 @@ body {
 .cid-qVFkHbVow8 .mbr-overlay ~ .container-slide {
   z-index: auto;
 }
-.cid-qVE90zVBGO {
-  background-image: url("../../../assets/images/sony-a6000-with-lenses-1600x1035.jpg");
-}
-.cid-qVE90zVBGO .icons-media-container {
-  display: flex;
-  justify-content: center;
-  -webkit-justify-content: center;
-  flex-direction: row;
-  -webkit-flex-direction: row;
-  flex-wrap: wrap;
-  -webkit-flex-wrap: wrap;
-  padding-top: 4rem;
-}
-.cid-qVE90zVBGO .icons-media-container .mbr-iconfont {
-  font-size: 96px;
-  color: #ffffff;
-}
-.cid-qVE90zVBGO .icons-media-container .icon-block {
-  padding-bottom: 1rem;
-}
-.cid-qVE90zVBGO .mbr-text {
-  color: #ffffff;
-}
-.cid-qVE90zVBGO .card {
-  padding-bottom: 1.5rem;
-}
 .cid-qVEwMueETe .navbar {
   padding: .5rem 0;
   background: #333333;
@@ -3234,4 +3208,30 @@ body {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #2e2e2e;
+}
+.cid-qVE90zVBGO {
+  background-image: url("../../../assets/images/sony-a6000-with-lenses-1600x1035.jpg");
+}
+.cid-qVE90zVBGO .icons-media-container {
+  display: flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+  flex-direction: row;
+  -webkit-flex-direction: row;
+  flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+  padding-top: 4rem;
+}
+.cid-qVE90zVBGO .icons-media-container .mbr-iconfont {
+  font-size: 96px;
+  color: #ffffff;
+}
+.cid-qVE90zVBGO .icons-media-container .icon-block {
+  padding-bottom: 1rem;
+}
+.cid-qVE90zVBGO .mbr-text {
+  color: #ffffff;
+}
+.cid-qVE90zVBGO .card {
+  padding-bottom: 1.5rem;
 }
