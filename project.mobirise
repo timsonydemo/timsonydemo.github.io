@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "DI Kiosk",
-    "currentPage": "index.html",
+    "name": "DI Kiosk-clone",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -20,7 +20,7 @@
         "display5Font": "Rubik",
         "display5Size": "2.2",
         "display7Font": "Rubik",
-        "display7Size": "1.4",
+        "display7Size": "1.6",
         "display4Font": "Rubik",
         "display4Size": 1,
         "isRoundedButtons": true,
@@ -37,7 +37,7 @@
     "siteFonts": [],
     "versionFirst": "4.7.6",
     "uniqCompNum": 48,
-    "versionPublish": "4.7.7",
+    "versionPublish": "4.7.9",
     "favicon": "",
     "noImageResize": ""
   },
@@ -342,10 +342,10 @@
               "z-index": "auto"
             },
             "P": {
-              "text-align": "center"
+              "text-align": "right"
             },
             "H2": {
-              "text-align": "center"
+              "text-align": "right"
             }
           },
           "_name": "slider1",
@@ -366,7 +366,7 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/sony-dsc-rx100-vi-cyber-shot-digital-camera-dscrx100m6-b78-1012x1014.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cx64200-front-mid-1920x1080.png",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -376,14 +376,14 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-7",
                 "customStyle3": "display-4",
-                "title": "DSC-RX100M6",
+                "title": "RX100 VI",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "<b>Premium, pocket-sized high zoom camera with 1.0\" sensor<br></b><br><b>PRODUCT HIGHLIGHTS\n</b><br>20.1MP  1\" Exmor RS® stacked CMOS sensor\n<br>Upgraded BIONZ X™ image processor\n<br>24fps high-speed continuous shooting with AF/AE tracking\n<br>4K movie with direct pixel readout and HLG instant HDR\n<br>Tiltable 3 Xtra Fine™ LCD with Touch Shutter\n<br>Pop-up OLED EVF with Live View benefits\n<br>Wi-Fi®/NFC™/QR code\n<br>Optical SteadyShot™ Image stabilization\n<br>World’s fastest2 (0.03. sec.)3 hybrid AF system\n<br>24-200mm  F2.8 – F4.5 ZEISS® Vario-Sonnar T* lens",
+                "text": "<b>Premium, pocket-sized high zoom camera with 1.0\" sensor<br></b><br><b>PRODUCT HIGHLIGHTS\n</b><br>20.1MP  1\" Exmor RS stacked CMOS sensor\n<br>Upgraded BIONZ X image processor\n<br>24fps high-speed continuous shooting with AF/AE tracking\n<br>4K movie with direct pixel readout and HLG instant HDR\n<br>Tiltable 3 Xtra Fine LCD with Touch Shutter\n<br>Pop-up OLED EVF with Live View benefits\n<br>Wi-Fi/NFC for easy smartphone connectivity&nbsp;<br>Optical SteadyShot Image stabilization\n<br>World’s fastest (0.03. sec.) hybrid AF system\n<br>24-200mm  F2.8 – F4.5 ZEISS Vario-Sonnar T* lens",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/zpr-sony-rx10-iv-front-flash-1024x1057.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cx64110-front-mid-1920x1080.png",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -393,14 +393,14 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-7",
                 "customStyle3": "display-4",
-                "title": "DSC-RX10M4",
+                "title": "RX10 IV",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "<b>Premium, bridge camera with 1.0\" sensor\n</b><br>\n<br><b>PRODUCT HIGHLIGHTS</b> \n<br>Exmor RS Stacked CMOS Sensor \n<br>High-speed BIONZ X image processing engine\n<br>24 fps continuous shooting with full AF/AE tracking\n<br>4K movie recording capable with full pixel readout \n<br>1.44M dot 3” tiltable LCD screen with touch focus/pad \n<br>2.35M dot XGA OLED Tru-Finder electronic viewfinder\n<br>Wi-Fi®/NFC™/QR code for easy file transfer\n<br>World’s Fastest AF acquisition speed of 0.03 seconds\n<br>Optical SteadyShot™ image stabilization\n<br>ZEISS Vario-Sonnar T* 24-600mm f/2.4-f/4 large aperture lens<br>",
+                "text": "<b>Premium, bridge camera with 1.0\" sensor\n</b><br>\n<br><b>PRODUCT HIGHLIGHTS</b> \n<br>Exmor RS Stacked CMOS Sensor \n<br>High-speed BIONZ X image processing engine\n<br>24 fps continuous shooting with full AF/AE tracking\n<br>4K movie recording capable with full pixel readout \n<br>1.44M dot 3” tiltable LCD screen with touch focus/pad \n<br>2.35M dot XGA OLED Tru-Finder electronic viewfinder\n<br>Wi-Fi/NFC for easy smartphone connectivity&nbsp;<br>World’s Fastest AF acquisition speed of 0.03 seconds\n<br>Optical SteadyShot image stabilization\n<br>ZEISS Vario-Sonnar T* 24-600mm f/2.4-f/4 large aperture lens<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/sony-dsc-h400-compact-camera-with-63x-optical-zoom-1200x1372.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsch400-1920x1080.png",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -410,14 +410,14 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-7",
                 "customStyle3": "display-4",
-                "title": "DSC-H400",
+                "title": "H400",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "<b>Zooms like a pro, handles like an DSLR, as easy to use as a compact</b><br>\n<br><b>PRODUCT HIGHLIGHTS \n</b><br>Clear Image Zoom ZEISS Lens\n<br>20.4MP Exmor R CMOS Sensor for superb low  light images\n<br>Keep your subject in focus with Lock-On AF\n<br>Simple connectivity to smartphones via Wi-Fi® with NFC™&nbsp;<br>Map your images with GPS tagged photos\n<br>Enhance features with downloadable camera apps\n<br>4K quality still image output via HDMI<br>Motion Shot Video traces subject movement",
+                "text": "<b>Zooms like a pro, handles like an DSLR, as easy to use as a compact</b><br>\n<br><b>PRODUCT HIGHLIGHTS \n</b><br>63x Optical Zoom Lens, with Clear Image Zoom&nbsp;<br>20.1MP Exmor R CMOS Sensor for superb low  light images<br>Optical SteadyShot image stabilization<br>Sweep Panorama and various image effects<br>Dedicated movie recording button for HD movies<br>Integrated electronic viewfinder",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/hx350-1500x1044.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dschx350-1920x1080.png",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -427,14 +427,14 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-7",
                 "customStyle3": "display-4",
-                "title": "DSC-HX350",
+                "title": "HX350",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "<b>Powerful zoom in an easy-to-use compact<br></b><br><b>PRODUCT HIGHLIGHTS \n</b><br>ZEISS Vario-Sonnar T* 24-1000 mm f2.80 Lens \n<br>20.4MP Exmor R CMOS Sensor for superb low light images &nbsp;<br>4K quality still image output via HDMI\n<br>ISO 80 - 3200( expands to 12800)\n<br>3″ Tilting Screen\n<br>201k dot Electronic viewfinder\n<br>10.0 fps continuous shooting\n<br>1920 x 1080 Full HD video recording&nbsp;<br>",
+                "text": "<b>Powerful zoom in an easy-to-use compact<br></b><br><b>PRODUCT HIGHLIGHTS \n</b><br>ZEISS Vario-Sonnar T* 24-1000 mm f2.80 Lens \n<br>20.4MP Exmor R CMOS Sensor for superb low light images &nbsp;<br>4K quality still image output via HDMI\n<br>ISO 80 - 3200 (expands to 12800)\n<br>3″ Tilting Screen\n<br>201k dot Electronic viewfinder\n<br>10.0 fps continuous shooting\n<br>1920 x 1080 Full HD video recording<br>Motion Shot Video recording&nbsp;<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/sony-fdrax53-b-fdr-ax53-4k-ultra-hd-1211905-2000x2000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ax53-1920x1080.png",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -444,82 +444,14 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-7",
                 "customStyle3": "display-4",
-                "title": "FDR-AX53V",
+                "title": "AX53",
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "<b>4K Ultra HD video camera with BOSS optical stabilization</b><br>\n<br><b>PRODUCT HIGHLIGHTS \n</b><br>4K Ultra HD 24/30p &amp; 16.6MP Stills\n<br>Exmor R CMOS Sensor\n<br>26.8mm Zeiss Vario Sonnar T* Zoom Lens\n<br>20x Optical Zoom &amp; 40x Clear Image Zoom\n<br>Balanced Optical SteadyShot\n<br>Fast Intelligent AF\n<br>High Speed 120 fps Recording\n<br>3.0\" LCD Touchscreen / 0.24\" Color EVF\n<br>5.1 Channel Surround Sound Microphone\n<br>Wi-Fi / NFC Connectivity<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/sony-ilce6000l-b-alpha-a6000-mirrorless-digital-1029861-1000x1000.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-1",
-                "customStyle2": "display-7",
-                "customStyle3": "display-4",
-                "title": "ILCE-A6000",
-                "overlay": true,
-                "contentAlign": "left",
-                "text": "<b>Compact mirrorless with fast focus and Full HD video recording</b><br><br><b>PRODUCT HIGHLIGHTS</b><br>High resolution with 24MP APS-C sensor\n<br>BIONZ® X image processing\n<br>Super fast auto focus with 179 AF points and 11FPS\n<br>Record Full HD 1080p 24/60 FPS Video\n<br>Tiltable 3.0” (921k dots) Xtra Fine™ LCD display\n<br>1.4M dot Tru-Finder™ OLED Electronic Viewfinder.\n<br>Instant sharing via smartphone with Wi-Fi and NFC\n<br>ISO range of 100-25600 for low light photos\n<br>Easy and intuitive controls help you shoot like a pro\n<br>16 - 50mm f/3.5 - 5.6 lens supplied",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/a6300-1500x1049.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-1",
-                "customStyle2": "display-7",
-                "customStyle3": "display-4",
-                "title": "ILCE-A6300",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "<b>Compact mirrorless with fast focus and 4K video recording</b>\n<br>\n<br><b>PRODUCT HIGHLIGHTS\n</b><br>24.2MP APS-C Exmor CMOS sensor\n<br>BIONZ X image processor\n<br>Up to 11fps. high speed shooting and Fast Hybrid AF\n<br>Internal UHD 4K30 &amp; 1080p120 recording\n<br>3.0\" 921.6k-Dot tilting LCD monitor\n<br>XGA Tru-Finder 2.36m-Dot OLED EVF\n<br>Wi-Fi, NFC, and QR code compatibility\n<br>425 phase-detection AF points\n<br>ISO auto minimum shutter speed\n<br>16-50mm f/3.5-5.6 lens supplied<br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/16500-1280x720.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-1",
-                "customStyle2": "display-7",
-                "customStyle3": "display-4",
-                "title": "ILCE-A6500",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "<b>Compact mirrorless with fast focus and 4K video recording</b> \n<br>\n<b><br>PRODUCT HIGHLIGHTS \n</b><br>24.2MP APS-C Exmor sensor\n<br>BIONZ X™ image processing\n<br>Up to 11fps. high speed shooting and Fast Hybrid AF\n<br>4K movie w/ 2.4x oversampling\n<br>3.0\" 921.6k-Dot Tilting Touchscreen LCD\n<br>XGA OLED Tru-Finder™\n<br>Wi-Fi/NFC/QR code for easy file transfer and remote control\n<br>425 phase-detection AF points\n<br>ISO range of 100-5120014 with low noise\n<br>5-axis in-body image stabilization<br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/sony-ilce-7m3-alpha-a7-iii-mirrorless-1394217-2000x2000.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-1",
-                "customStyle2": "display-7",
-                "customStyle3": "display-4",
-                "title": "ILCE-A7M3",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "<b>Full frame professional mirrorless camera</b> \n<br>\n<b><br>PRODUCT HIGHLIGHTS \n</b><br>24.2MP BSI Full-frame Image Sensor\n<br>High speed BIONZ X™ processing-engine\n<br>Up to 10fps with AF/AE tracking\n<br>4K full frame HDR Movie wih full pixel readout\n<br>3.0-type 922K-dot LCD touch screen\n<br>High-resolution, high-contrast XGA OLED Tru-Finder™\n<br>NFC / Wi-Fi / FTP file transfer via Wi-Fi / flash sync terminal\n<br>Sensitivity range up to ISO 51200 \n<br>In-body 5-axis image stabilization\n<br>Wider, faster, more steadfast AF and AE performances<br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/sel24105g-a7riii-right-eu10-2000x1247.jpg",
+                "image": "@PROJECT_PATH@/assets/images/a6000-1920x1080.png",
                 "active": true,
                 "showButtons": false,
                 "showText": true,
@@ -529,10 +461,129 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-7",
                 "customStyle3": "display-4",
-                "title": "ILCE-A7RM3",
+                "title": "A6000",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "<b>Compact mirrorless with fast focus and Full HD video recording</b><br><br><b>PRODUCT HIGHLIGHTS</b><br>High resolution with 24MP APS-C sensor\n<br>BIONZ X image processing\n<br>Super fast auto focus with 179 AF points and 11fps&nbsp;<br>Record Full HD 1080p Video\n<br>Tiltable 3.0” (921k dots) Xtra Fine LCD display\n<br>1.4M dot Tru-Finder OLED Electronic Viewfinder.\n<br>Instant sharing via smartphone with Wi-Fi and NFC\n<br>ISO range of 100-25600 for low light photos\n<br>Easy and intuitive controls help you shoot like a pro\n<br>16 - 50mm f/3.5 - 5.6 lens supplied",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/6300-n-wselp1650-front-mid-1920x1080.png",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-7",
+                "customStyle3": "display-4",
+                "title": "A6300",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "<b>High-resolution full frame professional mirrorless camera&nbsp;</b><br>\n<b><br>PRODUCT HIGHLIGHTS \n</b><br>Back-illuminated 42.4 MP full-frame sensor\n<br>High speed BIONZ X image processor\n<br>Up to 10fps with AF/AE tracking\n<br>High-resolution 4K HDR\n<br>3.0-type LCD touch screen with 1.44 million dots \n<br>High-luminance Quad-VGA OLED Tru-Finder™\n<br>Built-In Wi-Fi and NFC Functionality\n<br>In-body 5-axis image stabilization\n<br>AF-ON button and multi-selector\n<br>Enhanced flash compatibility<br>",
+                "text": "<b>Compact mirrorless with fast focus and 4K video recording</b>\n<br>\n<br><b>PRODUCT HIGHLIGHTS\n</b><br>24.2MP APS-C Exmor CMOS sensor\n<br>BIONZ X image processor\n<br>Up to 11fps high speed shooting and Fast Hybrid AF\n<br>Internal UHD 4K 30p &amp; Full HD 120p recording\n<br>3.0\" 921.6k-Dot tilting LCD monitor\n<br>XGA Tru-Finder 2.36m-Dot OLED EVF\n<br>Wi-Fi, NFC, and QR code compatibility\n<br>425 phase-detection AF points\n<br>ISO auto minimum shutter speed\n<br>16-50mm f/3.5-5.6 lens supplied<br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/6500-1920x1080.png",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-7",
+                "customStyle3": "display-4",
+                "title": "A6500",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "<b>Compact mirrorless with fast focus and 4K video recording</b> \n<br>\n<b><br>PRODUCT HIGHLIGHTS \n</b><br>24.2MP APS-C Exmor sensor\n<br>BIONZ X™ image processing\n<br>Up to 11fps high speed shooting and Fast Hybrid AF\n<br>4K movie w/ 2.4x oversampling\n<br>3.0\" 921.6k-Dot Tilting Touchscreen LCD\n<br>XGA OLED Tru-Finder™\n<br>Wi-Fi/NFC for easy file transfer and remote control\n<br>425 phase-detection AF points\n<br>ISO range of 100-51200 with low noise\n<br>5-axis in-body image stabilization<br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/a7-3-front-mid-1920x1080.png",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-7",
+                "customStyle3": "display-4",
+                "title": "A7 III",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "<b>Full frame professional mirrorless camera</b> \n<br>\n<b><br>PRODUCT HIGHLIGHTS \n</b><br>24.2MP BSI Full-frame Image Sensor\n<br>High speed BIONZ X processing-engine\n<br>Up to 10fps with AF/AE tracking\n<br>4K full frame HDR Movie wih full pixel readout\n<br>3.0-type 922K-dot LCD touch screen\n<br>High-resolution, high-contrast XGA OLED Tru-Finder&nbsp;<br>NFC / Wi-Fi for easy smartphone connectivity&nbsp;<br>Sensitivity range up to ISO 51200 \n<br>In-body 5-axis image stabilization\n<br>Wider, faster, more steadfast AF and AE performances<br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/a7r-3-front-mid-1920x1080.png",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-7",
+                "customStyle3": "display-4",
+                "title": "A7R III",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "<b>High-resolution full frame professional mirrorless camera&nbsp;</b><br>\n<b><br>PRODUCT HIGHLIGHTS \n</b><br>Back-illuminated 42.4 MP full-frame sensor\n<br>High speed BIONZ X image processor\n<br>Up to 10fps with AF/AE tracking\n<br>High-resolution 4K HDR video&nbsp;<br>3.0-type LCD touch screen with 1.44 million dots \n<br>High-luminance Quad-VGA OLED Tru-Finder&nbsp;<br>Built-In Wi-Fi and NFC Functionality\n<br>In-body 5-axis image stabilization\n<br>AF-ON button and multi-selector\n<br>Enhanced flash compatibility<br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dschx90v-1920x1080.png",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-7",
+                "customStyle3": "display-4",
+                "title": "HX90V",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "<b>Powerful 30x zoom in a pocket-sized camera&nbsp;</b><br>\n<b><br>PRODUCT HIGHLIGHTS \n</b><br>18.2MP BSI Exmor R CMOS Sensor\n<br>BIONZ X Image Processor\n<br>Zeiss Vario-Sonnar 30x Optical Zoom Lens\n<br>24-720mm (35mm Equivalent)\n<br>638k-Dot OLED Electronic Viewfinder\n<br>3.0\" 921k-Dot LCD\n<br>Full HD 1080/60p AVCHD/XAVC S Video\n<br>Built-in Wi-Fi and GPS\n<br>Optical SteadyShot Image Stabilization<br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/pj410-1920x1080.png",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-7",
+                "customStyle3": "display-4",
+                "title": "PJ410",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "<b>Full HD video recording and built-in projector for playback anywhere</b><br>\n<b><br>PRODUCT HIGHLIGHTS \n</b><br>Full HD Video Recording\n<br>9.2 Megapixel Still Images\n<br>Carl Zeiss 30x Optical Zoom Lens\n<br>SteadyShot Optical Image Stabiliser\n<br>XAVC S, AVCHD and MP4 Recording\n<br>Simultaneous Dual Format Recording\n<br>2.7” Flip-Out Screen\n<br>Built-in Projector w/ Micro HDMI Input<br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/cx405-1920x1080.png",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-7",
+                "customStyle3": "display-4",
+                "title": "CX405",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "<b>Great value Handycam with Full HD video and 30x zoom&nbsp;</b><br>\n<b><br>PRODUCT HIGHLIGHTS \n</b><br>Full HD video <br>9.2MP still image capture&nbsp;<br>Exmor R CMOS sensor\n<br>Bionz X processor\n<br>Zeiss 30x optical zoom lens\n<br>Optical Steady Shot image stabilization\n<br>XAVC S recording, AVCHD, and MP4\n<br>2.7\" flip-out LCD viewscreen<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ]
@@ -947,287 +998,6 @@
         }
       ]
     },
-    "page3.html": {
-      "settings": {
-        "title": "Old home page",
-        "meta_descr": "",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": "",
-        "order": 5
-      },
-      "components": [
-        {
-          "_styles": {
-            "& when not (@fullScreen)": {
-              "padding-top": "(@paddingTop * 15px)",
-              "padding-bottom": "(@paddingBottom * 15px)"
-            },
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            "& when (@bg-type = 'image')": {
-              "background-image": "url(@bg-value)"
-            },
-            ".mbr-media span": {
-              "font-size": "48px",
-              "cursor": "pointer",
-              "background-color": "#ffffff",
-              "border-radius": "50%",
-              "width": "6rem",
-              "height": "6rem",
-              "line-height": "6rem",
-              "position": "relative",
-              "display": "inline-block",
-              "transition": "all 0.25s",
-              "color": "#353535",
-              "&.mbri-play:before": {
-                "position": "absolute",
-                "left": "50%",
-                "-webkit-transform": "translateX(-35%)",
-                "-moz-transform": "translateX(-35%)",
-                "-ms-transform": "translateX(-35%)",
-                "-o-transform": "translateX(-35%)",
-                "transform": "translateX(-35%)"
-              }
-            },
-            ".modalWindow": {
-              "position": "fixed",
-              "z-index": "5000",
-              "left": "0",
-              "top": "0",
-              "background-color": "rgba(61, 61, 61, 0.65)",
-              "width": "100%",
-              "height": "100%",
-              ".modalWindow-container": {
-                "display": "table-cell",
-                "vertical-align": "middle"
-              },
-              ".modalWindow-video": {
-                "height": "calc(80vw / 1.778)",
-                "width": "80vw",
-                "margin": "0 auto"
-              }
-            },
-            "a.close": {
-              "position": "absolute",
-              "right": "4vw",
-              "top": "4vh",
-              "color": "#ffffff",
-              "z-index": "5000000",
-              "font-size": "37px",
-              "background": "#000",
-              "padding": "20px",
-              "border-radius": "50%",
-              "&:hover": {
-                "color": "#ffffff"
-              }
-            }
-          },
-          "_name": "header8",
-          "_customHTML": "<section class=\"header8\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" plugins=\"PlayerVimeo\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Video PopUp\" name=\"showVideoPopUp\">\n        <input type=\"text\" title=\"Modal Video\" name=\"modalVideo\" value=\"file:///C:/Users/5002502010/Videos/Handbrake renders/2015 Wr250f Tech Movie-1.mp4\" condition=\"showVideoPopUp\">\n        <input type=\"checkbox\" title=\"Show Description\" name=\"showDescription\" condition=\"showVideoPopUp\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" value=\"@PROJECT_PATH@/assets/images/sony-a6000-with-lenses-1600x1035.jpg\" title=\"Background Image\" selected parallax>\n            <input type=\"color\" value=\"#510938\" title=\"Background Color\">\n            <input type=\"video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\" title=\"Background Video\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#767676\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container align-center\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"mbr-white col-md-10\">\n                <h1 class=\"mbr-section-title align-center py-2 mbr-bold mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">\n                        SONY DIGITAL IMAGING</h1>\n                <p class=\"mbr-text align-center py-2 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\">\n                        These are our cameras! Yay!<br></p>\n                <div class=\"mbr-media show-modal align-center py-2\" mbr-if=\"showVideoPopUp\" data-modal=\".modalWindow\">\n                         <span mbr-icon class=\"mbr-iconfont mbri-play\"></span>\n                </div>\n                <div mbr-text class=\"icon-description align-center font-italic pb-3 mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showDescription && showVideoPopUp\" data-app-selector=\".icon-description\">\n                        Icon's descriptions\n                </div>\n                <div class=\"mbr-section-btn text-center\" mbr-buttons mbr-theme-style=\"display-4\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-secondary\" href=\"page1.html\" data-app-placeholder=\"Type Text\">Cameras</a> <a class=\"btn btn-md btn-secondary\" href=\"page1.html\" data-app-placeholder=\"Type Text\">Lenses</a></div>\n            </div>\n        </div>\n    </div>\n    <div mbr-if=\"showVideoPopUp\">\n        <div class=\"modalWindow\" style=\"display: none;\">\n            <div class=\"modalWindow-container\">\n                <div class=\"modalWindow-video-container\">\n                    <div class=\"modalWindow-video\">\n                        <iframe width=\"100%\" height=\"100%\" data-src=\"{{modalVideo}}\" frameborder=\"0\" allowfullscreen=\"1\"></iframe>\n                    </div>\n                    <a class=\"close\" role=\"button\" data-dismiss=\"modal\">\n                        <span aria-hidden=\"true\" class=\"mbri-close mbr-iconfont closeModal\"></span>\n                        <span class=\"sr-only\">Close</span>\n                    </a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "qVE0nZG4xN",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {},
-          "_anchor": "header8-o"
-        },
-        {
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            ".mbr-slider .carousel-control": {
-              "background": "#1b1b1b"
-            },
-            ".mbr-slider .carousel-control-prev": {
-              "left": "0",
-              "margin-left": "2.5rem"
-            },
-            ".mbr-slider .carousel-control-next": {
-              "right": "0",
-              "margin-right": "2.5rem"
-            },
-            ".mbr-slider .modal-body .close": {
-              "background": "#1b1b1b"
-            },
-            ".mbr-gallery-item > div::before": {
-              "content": "''",
-              "position": "absolute",
-              "left": "0",
-              "top": "0",
-              "width": "100%",
-              "height": "100%",
-              "background": "@overlayColor",
-              "& when (@gradOverlay)": {
-                "background": "linear-gradient(to left, @overlayColor, @overlayColor2) !important"
-              },
-              "opacity": "0",
-              "-webkit-transition": "0.2s opacity ease-in-out",
-              "transition": "0.2s opacity ease-in-out"
-            },
-            ".mbr-gallery-item > div:hover": {
-              ".mbr-gallery-title::before": {
-                "background": "transparent !important"
-              },
-              "&:before": {
-                "opacity": "@overlayOpacity !important"
-              }
-            },
-            ".mbr-gallery-title": {
-              "font-size": ".9em",
-              "position": "absolute",
-              "display": "block",
-              "width": "100%",
-              "bottom": "0",
-              "padding": "1rem",
-              "color": "#fff",
-              "z-index": "2",
-              "&:before": {
-                "content": "\" \"",
-                "width": "100%",
-                "height": "100%",
-                "top": "0",
-                "left": "0",
-                "z-index": "-1",
-                "position": "absolute",
-                "background": "@overlayColor !important",
-                "& when (@gradOverlay)": {
-                  "background": "linear-gradient(to left, @overlayColor, @overlayColor2) !important"
-                },
-                "opacity": "@overlayOpacity",
-                "-webkit-transition": "0.2s background ease-in-out",
-                "transition": "0.2s background ease-in-out"
-              }
-            }
-          },
-          "_name": "gallery3",
-          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" inline>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#554346\">\n        <input type=\"checkbox\" title=\"Gradient Overlay\" name=\"gradOverlay\" checked>\n        <input type=\"color\" title=\"Overlay Color 2\" name=\"overlayColor2\" value=\"#45505b\" condition=\"gradOverlay\">\n        <input type=\"range\" title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-show-text mbr-gallery-spacing=\"0\" mbr-gallery-show-bullets></div>\n    </div>\n\n</section>",
-          "_cid": "qVE0o3aQQz",
-          "_protectedParams": [
-            "text_all",
-            "gallery__filtersTextStyle",
-            "gallery__filtersBtnStyle",
-            "gallery"
-          ],
-          "_global": false,
-          "_once": false,
-          "_params": {
-            "text_all": "All",
-            "gallery__filtersTextStyle": "display-7",
-            "gallery__filtersBtnStyle": "btn-primary-outline",
-            "gallery": [
-              {
-                "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2018-5-3-16-5-11-233523.jpg",
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=NnTgOWBZ8bk",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "<b>RX100mk6</b><br>Premium, high-zoom compact",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2018-5-3-16-0-44-852585.jpg",
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=X5p2aiMC7K0",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery01.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery01.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "H400",
-                "active": true
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2018-5-3-16-1-45-187416.jpg",
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=qsXe9dAFBlw",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery02.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery02.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "A6000",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2018-5-3-16-4-42-736296.jpg",
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=lzG87ZjTDhU",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery03.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery03.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "PJ410",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery04.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery04.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery05.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery05.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery06.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery06.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery07.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery07.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              }
-            ]
-          },
-          "_anchor": "gallery3-p"
-        }
-      ]
-    },
     "page8.html": {
       "settings": {
         "meta_descr": "Website Builder Description",
@@ -1636,11 +1406,11 @@
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "qVFcWfxvGj",
+          "_anchor": "menu1-13",
           "_protectedParams": [],
           "_global": true,
           "_once": "menu",
-          "_params": {},
-          "_anchor": "menu1-13"
+          "_params": {}
         },
         {
           "_styles": {
@@ -1879,6 +1649,7 @@
           "_name": "slider1",
           "_customHTML": "<section class=\"carousel slide\" group=\"Sliders & Gallery\" plugins=\"YTPlayer,VimeoPlayer,SliderVideo,BootstrapCarouselSwipe\" data-interval=\"false\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"carousel\" title=\"Slides\" name=\"slides\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-carousel=\"slides\" class=\"full-screen\" mbr-carousel-embedded></div>\n\n</section>",
           "_cid": "qVFkHbVow8",
+          "_anchor": "slider1-1a",
           "_protectedParams": [
             "slides__autoplay",
             "slides__autoplayInterval",
@@ -1893,7 +1664,7 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/sel50f18b-1920x1080.png",
+                "image": "@PROJECT_PATH@/assets/images/sel50f18b-1-1920x1080.png",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -1901,16 +1672,118 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-1",
-                "customStyle2": "display-5",
+                "customStyle2": "display-7",
                 "customStyle3": "display-4",
                 "title": "SEL50F18B",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "<b>Fast, high performance prime lens. Perfect for\n<br>portraiture and a range of other subjects, the F1.8\n<br>maximum aperture and optical image stabilisation\n<br>provide impressive picture quality, even in low-light.</b>",
+                "text": "50mm focal length<br>F1.8<br>E-mount, APS-C format<br><br><b>Fast, high performance prime lens. Perfect for\n</b><b>portraiture and a&nbsp;</b><br><b>range of other subjects, the F1.8 maximum aperture and optical image </b><br><b>stabilisation\nprovide impressive picture quality, even in low-light.</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/sel1018-1920x1080.png",
+                "image": "@PROJECT_PATH@/assets/images/sel1018-1-1920x1080.png",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-7",
+                "customStyle3": "display-4",
+                "title": "SEL1018<br>",
+                "overlay": true,
+                "contentAlign": "right",
+                "text": "10-18mm focal length<br>F4<br>E-mount, APS-C format&nbsp;<br><br><b>From expansive landscapes to striking interior\n<br>shots with dramatic perspective, this super wide-angle\n<br>zoom lens will capture it all with total precision.</b>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sel50f18f-1920x1080.png",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-7",
+                "customStyle3": "display-4",
+                "title": "SEL50F18F<br>",
+                "overlay": true,
+                "contentAlign": "right",
+                "text": "50mm focal length<br>F1.8<br>E-mount, Full frame format&nbsp;<br><b><br>A large-aperture 50 mm prime lens for full-frame cameras users. </b><br><b>The optical design is state-of-the-art for high image quality,</b><b>and the</b><br><b> large F1.8 maximum aperture can produce gorgeous background bokeh.</b><br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sel1635z-1920x1080.png",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-7",
+                "customStyle3": "display-4",
+                "title": "SEL1635Z",
+                "overlay": true,
+                "contentAlign": "right",
+                "text": "16-35mm focal length<br>F4<br>E-mount, Full frame format<br><br><b>This full frame E-mount 16-35mm ZEISS Vario-Tessar zoom<br>offers outstanding performance in a compact, lightweight package</b><br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sel2470z-1920x1080.png",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-7",
+                "customStyle3": "display-4",
+                "title": "SEL2470Z",
+                "overlay": true,
+                "contentAlign": "right",
+                "text": "24-70mm focal length<br>F4<br>E-mount, Full frame format<br><br><b>This compact zoom lens can bring out the best in full frame<br>E-mount cameras in a wide range of day-to-day shooting situations</b><br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sel2870-1920x1080.png",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-7",
+                "customStyle3": "display-4",
+                "title": "SEL2870B",
+                "overlay": true,
+                "contentAlign": "right",
+                "text": "28-70mm focal length<br>F3.5-5.6<br>E-mount, Full frame format<br><br><b>Combining impressive optical performance with lightweight, <br>compact convenience, the SEL2870 makes an ideal everyday lens.</b><br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sel55210-1920x1080.png",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-7",
+                "customStyle3": "display-4",
+                "title": "SEL55210B",
+                "overlay": true,
+                "contentAlign": "right",
+                "text": "55-210mm focal length<br>F4.5-6.3<br>E-mount, APS-C format<br><br><b>Get closer with a compact 3.8x zoom.&nbsp;The SEL55210 offers the <br>reach you need for subjects such as sports and nature</b>.<br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sel70200g-1920x1080.png",
                 "active": true,
                 "showButtons": false,
                 "showText": true,
@@ -1918,17 +1791,16 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-1",
-                "customStyle2": "display-5",
+                "customStyle2": "display-7",
                 "customStyle3": "display-4",
-                "title": "SEL1018",
+                "title": "SEL70200G",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "<b>From expansive landscapes to striking interior\n<br>shots with dramatic perspective, this super wide-angle\n<br>zoom lens will capture it all with total precision.</b>",
+                "text": "70-200mm focal length<br>F4<br>E-mount, Full frame format<br><br><b>In addition to an ideal zoom range for nature, sports, and other photography<br> that requires a bit more “reach” that a mid-range zoom provides.</b>&nbsp;<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ]
-          },
-          "_anchor": "slider1-1a"
+          }
         }
       ]
     },
@@ -2338,11 +2210,11 @@
           "_name": "menu1",
           "_customHTML": "<section class=\"menu\" group=\"Menu\" plugins=\"DropDown, TouchSwipe\" always-top global once=\"menu\" not-draggable position-absolute>\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Show Logo\" name=\"showLogo\">\n        <input type=\"range\" title=\"Logo Size\" inline name=\"logoSize\" min=\"3.8\" max=\"8\" step=\"0.1\" value=\"3.8\" condition=\"showLogo\">\n        <input type=\"checkbox\" title=\"Show Brand Name\" name=\"showBrand\" checked>\n        <input type=\"checkbox\" title=\"Show Menu Items\" name=\"showItems\">\n        <input type=\"color\" title=\"Items Hover Color\" name=\"itemsHoverColor\" value=\"#c1c1c1\" condition=\"showItems\">\n        <input type=\"checkbox\" title=\"Show Button(s)\" name=\"showButtons\" checked>\n        <input type=\"checkbox\" title=\"Sticky\" name=\"sticky\" checked>\n        <input type=\"checkbox\" title=\"Collapsed\" name=\"collapsed\">\n        <input type=\"checkbox\" title=\"Transparent\" name=\"transparent\">\n        <input type=\"color\" title=\"Hamburger Color\" name=\"hamburgerColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"menuBgColor\" value=\"#333333\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <nav class=\"navbar navbar-expand beta-menu navbar-dropdown align-items-center\" mbr-class=\"{'navbar-fixed-top': sticky,\n        'navbar-toggleable-sm': !collapsed,\n        'collapsed': collapsed,\n        'bg-color transparent': transparent}\">\n        <button class=\"navbar-toggler navbar-toggler-right\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarSupportedContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\n            <div class=\"hamburger\">\n                <span></span>\n                <span></span>\n                <span></span>\n                <span></span>\n            </div>\n        </button>\n        <div class=\"menu-logo\">\n            <div class=\"navbar-brand\">\n                <span mbr-if=\"showLogo\" class=\"navbar-logo\">\n                    <a href=\"index.html\">\n                         <img src=\"@PROJECT_PATH@/assets/images/logo2.png\" alt=\"Mobirise\" mbr-style=\"{'height': logoSize + 'rem'}\" title>\n                    </a>\n                </span>\n                <span mbr-if=\"showBrand\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-caption-wrap\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove\"><a class=\"navbar-caption text-white\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Text\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px;\"></span></a></span>\n            </div>\n        </div>\n        <div class=\"collapse navbar-collapse\" id=\"navbarSupportedContent\">\n            <ul mbr-if=\"showItems\" mbr-menu class=\"navbar-nav nav-dropdown\" mbr-theme-style=\"display-4\" mbr-class=\"{'nav-right': !showButtons,'navbar-nav-top-padding': isPublish && !showBrand && !showLogo}\"><li class=\"nav-item\">\n                    <a class=\"nav-link link text-white\" href=\"https://mobirise.com\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">\n                        <span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>\n                        About Us\n                    </a>\n                </li></ul>\n            <div mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-buttons mbr-section-btn\"><a class=\"btn btn-sm btn-primary\" href=\"page8.html\" data-app-placeholder=\"Type Text\"><span class=\"mbri-image-slider mbr-iconfont mbr-iconfont-btn\"></span>&nbsp; Lenses</a> <a class=\"btn btn-sm btn-primary\" href=\"page1.html\" data-app-placeholder=\"Type Text\"><span class=\"mbri-camera mbr-iconfont mbr-iconfont-btn\"></span>&nbsp; Cameras</a> <a class=\"btn btn-sm btn-primary\" href=\"video.html\" data-app-placeholder=\"Type Text\"><span class=\"mbri-video mbr-iconfont mbr-iconfont-btn\"></span>&nbsp; Video</a></div>\n        </div>\n    </nav>\n</section>",
           "_cid": "qVEwMueETe",
+          "_anchor": "menu1-z",
           "_protectedParams": [],
           "_global": true,
           "_once": "menu",
-          "_params": {},
-          "_anchor": "menu1-z"
+          "_params": {}
         },
         {
           "_styles": {
@@ -2416,6 +2288,7 @@
           "_name": "gallery1",
           "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"9\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"5\" inline>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#554346\">\n        <input type=\"checkbox\" title=\"Gradient Overlay\" name=\"gradOverlay\" checked>\n        <input type=\"color\" title=\"Overlay Color 2\" name=\"overlayColor2\" value=\"#45505b\" condition=\"gradOverlay\">\n        <input type=\"range\" title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"1\" mbr-gallery-show-text></div>\n    </div>\n\n</section>",
           "_cid": "qVEwMvlvZn",
+          "_anchor": "gallery1-10",
           "_protectedParams": [
             "text_all",
             "gallery__filtersTextStyle",
@@ -2534,8 +2407,7 @@
                 "active": false
               }
             ]
-          },
-          "_anchor": "gallery1-10"
+          }
         },
         {
           "_styles": {
@@ -2549,67 +2421,13 @@
             }
           },
           "_name": "footer6",
-          "_customHTML": "<section group=\"Footers\" global once mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\">\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/jumbotron.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#2e2e2e\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#3C3C3C\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row align-center mbr-white\">\n            <div class=\"col-12\">\n                <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".media-container-row .mbr-text\" data-app-placeholder=\"Type Text\"><b>Select any of the videos above to play</b></p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section group=\"Footers\" global once mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\">\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/jumbotron.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#2e2e2e\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#3C3C3C\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row align-center mbr-white\">\n            <div class=\"col-12\">\n                <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".media-container-row .mbr-text\" data-app-placeholder=\"Type Text\">Select any of the videos above to play</p>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qVFg7xsbNs",
+          "_anchor": "footer6-19",
           "_protectedParams": [],
           "_global": true,
           "_once": true,
-          "_params": {},
-          "_anchor": "footer6-19"
-        }
-      ]
-    },
-    "oldpage.html": {
-      "settings": {
-        "meta_descr": "Web Site Creator Description",
-        "title": "Landing page 2",
-        "order": 1
-      },
-      "components": [
-        {
-          "_styles": {
-            "& when not (@fullScreen)": {
-              "padding-top": "(@paddingTop * 15px)",
-              "padding-bottom": "(@paddingBottom * 15px)"
-            },
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            "& when (@bg-type = 'image')": {
-              "background-image": "url(@bg-value)"
-            },
-            ".icons-media-container": {
-              "display": "flex",
-              "justify-content": "center",
-              "-webkit-justify-content": "center",
-              "flex-direction": "row",
-              "-webkit-flex-direction": "row",
-              "flex-wrap": "wrap",
-              "-webkit-flex-wrap": "wrap",
-              "padding-top": "4rem",
-              ".mbr-iconfont": {
-                "font-size": "96px",
-                "color": "rgb(255, 255, 255)"
-              },
-              ".icon-block": {
-                "padding-bottom": "1rem"
-              }
-            },
-            ".mbr-text": {
-              "color": "#ffffff"
-            },
-            ".card": {
-              "padding-bottom": "1.5rem"
-            }
-          },
-          "_name": "header12",
-          "_customHTML": "<section class=\"header12\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" plugins=\"VimeoPlayer\" mbr-class=\"{'mbr-fullscreen': fullScreen,'mbr-parallax-background' :bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"checkbox\" title=\"Show Icons\" name=\"showIcons\" checked>\n        <input type=\"checkbox\" title=\"Show Arrow\" name=\"showArrow\">\n\n        <select title=\"Columns\" name=\"cardsCount\">\n            <option value=\"2\">2</option>\n            <option value=\"3\" selected>3</option>\n            <option value=\"4\">4</option>\n        </select>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/sony-a6000-with-lenses-1600x1035.jpg\" selected parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#0f7699\">\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#7f1933\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container  \">\n            <div class=\"media-container\">\n                <div class=\"col-md-12 align-center\">\n                    <h1 class=\"mbr-section-title pb-3 mbr-white mbr-bold mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">\n                        SONY DIGITAL IMAGING</h1>\n                    <p class=\"mbr-text pb-3 mbr-white mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\"><b>\n                        Pocket-sized; Professional results</b></p>\n                    <div class=\"mbr-section-btn align-center py-2\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-secondary\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Text\">MORE</a></div>\n\n                    <div class=\"icons-media-container mbr-white\">\n                        <div class=\"card col-12 col-md-6\" mbr-class=\"{'col-lg-3':cardsCount=='4', 'col-lg-4':cardsCount=='3'}\">\n                            <div mbr-if=\"showIcons\" class=\"icon-block\">\n                            <a href=\"https://mobirise.com/\">\n                                <span mbr-icon class=\"mbr-iconfont mbri-camera\" style=\"font-size: 250px;\"></span>\n                            </a>\n                            </div>\n                            <h5 mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" class=\"mbr-fonts-style\">\n                                Still and Video&nbsp;Cameras</h5>\n                        </div>\n\n                        <div class=\"card col-12 col-md-6\" mbr-class=\"{'col-lg-3':cardsCount=='4', 'col-lg-4':cardsCount=='3'}\">\n                            <div mbr-if=\"showIcons\" class=\"icon-block\">\n                                <a href=\"https://mobirise.com/\">\n                                    <span mbr-icon class=\"mbr-iconfont mbri-image-slider\" style=\"font-size: 250px;\"></span>\n                                </a>\n                            </div>\n                            <h5 mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" class=\"mbr-fonts-style\">\n                                Lenses</h5>\n                        </div>\n\n                        <div class=\"card col-12 col-md-6\" mbr-class=\"{'col-lg-3':cardsCount=='4', 'col-lg-4':cardsCount=='3'}\" mbr-if=\"cardsCount>2\">\n                            <div mbr-if=\"showIcons\" class=\"icon-block\">\n                                <a href=\"https://mobirise.com/\">\n                                    <span mbr-icon class=\"mbr-iconfont mbri-video\" style=\"font-size: 250px;\"></span>\n                                </a>\n                            </div>\n                            <h5 mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" class=\"mbr-fonts-style\">\n                                Product Videos</h5>\n                        </div>\n\n                        <div class=\"card col-12 col-md-6\" mbr-class=\"{'col-lg-3':cardsCount=='4', 'col-lg-4':cardsCount=='3'}\" mbr-if=\"cardsCount>3\">\n                            <div mbr-if=\"showIcons\" class=\"icon-block\">\n                                <a href=\"https://mobirise.com/\">\n                                    <span mbr-icon class=\"mbri-mobirise mbr-iconfont\"></span>\n                                </a>\n                            </div>\n                            <h5 mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" class=\"mbr-fonts-style\">\n                                Reach Top\n                            </h5>\n                        </div>\n                    </div>\n                </div>\n            </div>\n    </div>\n\n    <div mbr-if=\"showArrow\" class=\"mbr-arrow hidden-sm-down\" aria-hidden=\"true\">\n        <a href=\"#next\">\n            <i class=\"mbri-down mbr-iconfont\"></i>\n        </a>\n    </div>\n</section>",
-          "_cid": "qVE90zVBGO",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {},
-          "_anchor": "header12-s"
+          "_params": {}
         }
       ]
     }
