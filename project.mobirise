@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "DI Kiosk-clone",
-    "currentPage": "page8.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -380,7 +380,7 @@
                 "title": "RX100 VI",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "<b>Premium, pocket-sized high zoom camera with 1.0\" sensor<br></b><br><b>PRODUCT HIGHLIGHTS\n</b><br>20.1MP  1\" Exmor RS stacked CMOS sensor\n<br>Upgraded BIONZ X image processor\n<br>24fps high-speed continuous shooting with AF/AE tracking\n<br>4K movie with direct pixel readout and HLG instant HDR\n<br>Tiltable 3 Xtra Fine LCD with Touch Shutter\n<br>Pop-up OLED EVF with Live View benefits\n<br>Wi-Fi/NFC for easy smartphone connectivity&nbsp;<br>Optical SteadyShot Image stabilization\n<br>World’s fastest (0.03. sec.) hybrid AF system\n<br>24-200mm  F2.8 – F4.5 ZEISS Vario-Sonnar T* lens",
+                "text": "<b>Premium, pocket-sized high zoom camera with 1.0\" sensor<br></b><br><b>PRODUCT HIGHLIGHTS\n</b><br>20.1MP  1\" Exmor RS stacked CMOS sensor\n<br>Upgraded BIONZ X image processor\n<br>24fps high-speed continuous shooting with AF/AE tracking\n<br>4K movie with direct pixel readout and HLG instant HDR\n<br>Tiltable 3\" touchscreen LCD and pop-up OLED viewfinder&nbsp;<br>Wi-Fi/NFC for easy smartphone connectivity&nbsp;<br>Optical SteadyShot Image stabilization\n<br>24-200mm  F2.8 – F4.5 ZEISS Vario-Sonnar T* lens",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
@@ -397,7 +397,7 @@
                 "title": "RX10 IV",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "<b>Premium, bridge camera with 1.0\" sensor\n</b><br>\n<br><b>PRODUCT HIGHLIGHTS</b> \n<br>Exmor RS Stacked CMOS Sensor \n<br>High-speed BIONZ X image processing engine\n<br>24 fps continuous shooting with full AF/AE tracking\n<br>4K movie recording capable with full pixel readout \n<br>1.44M dot 3” tiltable LCD screen with touch focus/pad \n<br>2.35M dot XGA OLED Tru-Finder electronic viewfinder\n<br>Wi-Fi/NFC for easy smartphone connectivity&nbsp;<br>World’s Fastest AF acquisition speed of 0.03 seconds\n<br>Optical SteadyShot image stabilization\n<br>ZEISS Vario-Sonnar T* 24-600mm f/2.4-f/4 large aperture lens<br>",
+                "text": "<b>Premium, bridge camera with 1.0\" sensor\n</b><br>\n<br><b>PRODUCT HIGHLIGHTS</b> \n<br>Exmor RS Stacked CMOS Sensor \n<br>High-speed BIONZ X image processing engine\n<br>24 fps continuous shooting with full AF/AE tracking\n<br>4K movie recording capable with full pixel readout \n<br>3” tiltable LCD touchscreen and XGA OLED viewfinder &nbsp;<br>Wi-Fi/NFC for easy smartphone connectivity&nbsp;<br>Optical SteadyShot image stabilization\n<br>ZEISS Vario-Sonnar T* 24-600mm f/2.4-f/4 large aperture lens<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
@@ -431,7 +431,7 @@
                 "title": "HX350",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "<b>Powerful zoom in an easy-to-use compact<br></b><br><b>PRODUCT HIGHLIGHTS \n</b><br>ZEISS Vario-Sonnar T* 24-1000 mm f2.80 Lens \n<br>20.4MP Exmor R CMOS Sensor for superb low light images &nbsp;<br>4K quality still image output via HDMI\n<br>ISO 80 - 3200 (expands to 12800)\n<br>3″ Tilting Screen\n<br>201k dot Electronic viewfinder\n<br>10.0 fps continuous shooting\n<br>1920 x 1080 Full HD video recording<br>Motion Shot Video recording&nbsp;<br>",
+                "text": "<b>Powerful zoom in an easy-to-use compact<br></b><br><b>PRODUCT HIGHLIGHTS \n</b><br>ZEISS Vario-Sonnar T* 24-1000 mm f2.80 Lens \n<br>20.4MP Exmor R CMOS Sensor for superb low light images &nbsp;<br>4K quality still image output via HDMI\n<br>ISO 80 - 3200 (expands to 12800)\n<br>3″ Tilting Screen and electronic viewfinder&nbsp;<br>10.0 fps continuous shooting\n<br>1920 x 1080 Full HD video recording<br>Motion Shot Video recording&nbsp;<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
@@ -448,7 +448,7 @@
                 "title": "AX53",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "<b>4K Ultra HD video camera with BOSS optical stabilization</b><br>\n<br><b>PRODUCT HIGHLIGHTS \n</b><br>4K Ultra HD 24/30p &amp; 16.6MP Stills\n<br>Exmor R CMOS Sensor\n<br>26.8mm Zeiss Vario Sonnar T* Zoom Lens\n<br>20x Optical Zoom &amp; 40x Clear Image Zoom\n<br>Balanced Optical SteadyShot\n<br>Fast Intelligent AF\n<br>High Speed 120 fps Recording\n<br>3.0\" LCD Touchscreen / 0.24\" Color EVF\n<br>5.1 Channel Surround Sound Microphone\n<br>Wi-Fi / NFC Connectivity<br>",
+                "text": "<b>4K Ultra HD video camera with BOSS optical stabilization</b><br>\n<br><b>PRODUCT HIGHLIGHTS \n</b><br>4K Ultra HD 24/30p &amp; 16.6MP Stills\n<br>26.8mm Zeiss Vario Sonnar T* Zoom Lens\n<br>20x Optical Zoom &amp; 40x Clear Image Zoom\n<br>Balanced Optical SteadyShot\n<br>Fast Intelligent AF\n<br>High Speed 120 fps Recording\n<br>3.0\" LCD Touchscreen / 0.24\" Color EVF\n<br>5.1 Channel Surround Sound Microphone\n<br>Wi-Fi / NFC Connectivity<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
@@ -465,7 +465,7 @@
                 "title": "A6000",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "<b>Compact mirrorless with fast focus and Full HD video recording</b><br><br><b>PRODUCT HIGHLIGHTS</b><br>High resolution with 24MP APS-C sensor\n<br>BIONZ X image processing\n<br>Super fast auto focus with 179 AF points and 11fps&nbsp;<br>Record Full HD 1080p Video\n<br>Tiltable 3.0” (921k dots) Xtra Fine LCD display\n<br>1.4M dot Tru-Finder OLED Electronic Viewfinder.\n<br>Instant sharing via smartphone with Wi-Fi and NFC\n<br>ISO range of 100-25600 for low light photos\n<br>Easy and intuitive controls help you shoot like a pro\n<br>16 - 50mm f/3.5 - 5.6 lens supplied",
+                "text": "<b>Compact mirrorless with fast focus and Full HD video recording</b><br><br><b>PRODUCT HIGHLIGHTS</b><br>High resolution with 24MP APS-C sensor\n<br>BIONZ X image processing\n<br>Super fast auto focus with 179 AF points and 11fps&nbsp;<br>Record Full HD 1080p Video\n<br>3\" LCD screen and bright OLED viewfinder&nbsp;<br>Instant sharing via smartphone with Wi-Fi and NFC\n<br>ISO range of 100-25600 for low light photos\n<br>Easy and intuitive controls help you shoot like a pro\n<br>16 - 50mm f/3.5 - 5.6 lens supplied",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
@@ -482,7 +482,7 @@
                 "title": "A6300",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "<b>Compact mirrorless with fast focus and 4K video recording</b>\n<br>\n<br><b>PRODUCT HIGHLIGHTS\n</b><br>24.2MP APS-C Exmor CMOS sensor\n<br>BIONZ X image processor\n<br>Up to 11fps high speed shooting and Fast Hybrid AF\n<br>Internal UHD 4K 30p &amp; Full HD 120p recording\n<br>3.0\" 921.6k-Dot tilting LCD monitor\n<br>XGA Tru-Finder 2.36m-Dot OLED EVF\n<br>Wi-Fi, NFC, and QR code compatibility\n<br>425 phase-detection AF points\n<br>ISO auto minimum shutter speed\n<br>16-50mm f/3.5-5.6 lens supplied<br>",
+                "text": "<b>Compact mirrorless with fast focus and 4K video recording</b>\n<br>\n<br><b>PRODUCT HIGHLIGHTS\n</b><br>24.2MP APS-C Exmor CMOS sensor\n<br>BIONZ X image processor\n<br>Up to 11fps high speed shooting and Fast Hybrid AF\n<br>Internal UHD 4K 30p &amp; Full HD 120p recording\n<br>3\" LCD screen and bright OLED viewfinder&nbsp;<br>Wi-Fi, NFC, and QR code compatibility\n<br>425 phase-detection AF points\n<br>ISO auto minimum shutter speed\n<br>16-50mm f/3.5-5.6 lens supplied<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
@@ -499,7 +499,7 @@
                 "title": "A6500",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "<b>Compact mirrorless with sensor-stabilised&nbsp;</b><b>4K video recording</b> \n<br>\n<b><br>PRODUCT HIGHLIGHTS \n</b><br>24.2MP APS-C Exmor sensor\n<br>BIONZ X™ image processing\n<br>Up to 11fps high speed shooting and Fast Hybrid AF\n<br>4K movie w/ 2.4x oversampling\n<br>3.0\" 921.6k-Dot Tilting Touchscreen LCD\n<br>XGA OLED Tru-Finder™\n<br>Wi-Fi/NFC for easy file transfer and remote control\n<br>425 phase-detection AF points\n<br>ISO range of 100-51200 with low noise\n<br>5-axis in-body image stabilization<br>",
+                "text": "<b>Compact mirrorless with sensor-stabilised&nbsp;</b><b>4K video recording</b> \n<br>\n<b><br>PRODUCT HIGHLIGHTS \n</b><br>24.2MP APS-C Exmor sensor\n<br>BIONZ X™ image processing\n<br>Up to 11fps high speed shooting and Fast Hybrid AF\n<br>4K movie w/ 2.4x oversampling\n<br>3\" LCD touch screen and bright OLED viewfinder&nbsp;<br>Wi-Fi/NFC for easy file transfer and remote control\n<br>425 phase-detection AF points\n<br>ISO range of 100-51200 with low noise\n<br>5-axis in-body image stabilization<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
@@ -516,7 +516,7 @@
                 "title": "A7 III",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "<b>Full frame professional mirrorless camera</b> \n<br>\n<b><br>PRODUCT HIGHLIGHTS \n</b><br>24.2MP BSI Full-frame Image Sensor\n<br>High speed BIONZ X processing-engine\n<br>Up to 10fps with AF/AE tracking\n<br>4K full frame HDR Movie wih full pixel readout\n<br>3.0-type 922K-dot LCD touch screen\n<br>High-resolution, high-contrast XGA OLED Tru-Finder&nbsp;<br>NFC / Wi-Fi for easy smartphone connectivity&nbsp;<br>Sensitivity range up to ISO 51200 \n<br>In-body 5-axis image stabilization\n<br>Wider, faster, more steadfast AF and AE performances<br>",
+                "text": "<b>Full frame professional mirrorless camera</b> \n<br>\n<b><br>PRODUCT HIGHLIGHTS \n</b><br>24.2MP BSI Full-frame Image Sensor\n<br>High speed BIONZ X processing-engine\n<br>Up to 10fps with AF/AE tracking\n<br>4K full frame HDR Movie wih full pixel readout\n<br>3\" LCD touch screen and bright OLED viewfinder&nbsp;<br>NFC / Wi-Fi for easy smartphone connectivity&nbsp;<br>Sensitivity range up to ISO 51200 \n<br>In-body 5-axis image stabilization\n<br>Wider, faster, more steadfast AF and AE performances<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
@@ -533,7 +533,7 @@
                 "title": "A7R III",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "<b>High-resolution full frame professional mirrorless camera&nbsp;</b><br>\n<b><br>PRODUCT HIGHLIGHTS \n</b><br>Back-illuminated 42.4 MP full-frame sensor\n<br>High speed BIONZ X image processor\n<br>Up to 10fps with AF/AE tracking\n<br>High-resolution 4K HDR video&nbsp;<br>3.0-type LCD touch screen with 1.44 million dots \n<br>High-luminance Quad-VGA OLED Tru-Finder&nbsp;<br>Built-In Wi-Fi and NFC Functionality\n<br>In-body 5-axis image stabilization\n<br>AF-ON button and multi-selector\n<br>Enhanced flash compatibility<br>",
+                "text": "<b>High-resolution full frame professional mirrorless camera&nbsp;</b><br>\n<b><br>PRODUCT HIGHLIGHTS \n</b><br>Back-illuminated 42.4 MP full-frame sensor\n<br>High speed BIONZ X image processor\n<br>Up to 10fps with AF/AE tracking\n<br>High-resolution 4K HDR video&nbsp;<br>3\" LCD touch screen and&nbsp;bright OLED viewfinder&nbsp;<br>Built-In Wi-Fi and NFC Functionality\n<br>In-body 5-axis image stabilization\n<br>AF-ON button and multi-selector\n<br>Enhanced flash compatibility<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
@@ -550,7 +550,7 @@
                 "title": "HX90V",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "<b>Powerful 30x zoom in a pocket-sized camera&nbsp;</b><br>\n<b><br>PRODUCT HIGHLIGHTS \n</b><br>18.2MP BSI Exmor R CMOS Sensor\n<br>BIONZ X Image Processor\n<br>Zeiss Vario-Sonnar 30x Optical Zoom Lens\n<br>24-720mm (35mm Equivalent)\n<br>638k-Dot OLED Electronic Viewfinder\n<br>3.0\" 921k-Dot LCD\n<br>Full HD 1080/60p AVCHD/XAVC S Video\n<br>Built-in Wi-Fi and GPS\n<br>Optical SteadyShot Image Stabilization<br>",
+                "text": "<b>Powerful 30x zoom in a pocket-sized camera&nbsp;</b><br>\n<b><br>PRODUCT HIGHLIGHTS \n</b><br>18.2MP BSI Exmor R CMOS Sensor\n<br>BIONZ X Image Processor\n<br>Zeiss Vario-Sonnar 30x Optical Zoom Lens\n<br>24-720mm (35mm Equivalent)\n<br>3\" LCD screen and OLED Electronic Viewfinder\n<br>Full HD 1080/60p AVCHD/XAVC S Video\n<br>Built-in Wi-Fi and GPS\n<br>Optical SteadyShot Image Stabilization<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
