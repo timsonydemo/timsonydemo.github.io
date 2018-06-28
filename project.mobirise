@@ -418,7 +418,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/dschx350-1920x1080.png",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -452,7 +452,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/a6000-1920x1080.png",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
