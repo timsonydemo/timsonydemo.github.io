@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "DI Kiosk-offline simplified-May19",
-    "currentPage": "index.html",
+    "currentPage": "page8.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -39,7 +39,7 @@
     "uniqCompNum": 48,
     "versionPublish": "4.7.9",
     "favicon": "",
-    "noImageResize": "",
+    "noImageResize": "true",
     "screenshot": "screenshot.png"
   },
   "pages": {
@@ -1682,7 +1682,7 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/sel50f18b-1-1920x1080.png",
+                "image": "@PROJECT_PATH@/assets/images/sel50f18b.png",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -1716,8 +1716,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/sel50f18f-1920x1080.png",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/sel50f18f.png",
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -1835,8 +1835,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/sel135f18gm-1920x1080.png",
-                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/sel135f18gm-1-1920x1080.png",
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
