@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "DI Kiosk-offline simplified",
+    "name": "DI Kiosk-offline simplified-May19",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -419,7 +419,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/dschx350-1920x1080.png",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -469,7 +469,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/6300-n-wselp1650-front-mid-1920x1080.png",
+                "image": "@PROJECT_PATH@/assets/images/a6400-1-1920x1080.png",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -479,10 +479,10 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-7",
                 "customStyle3": "display-4",
-                "title": "A6300",
+                "title": "A6400",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "<b>Compact mirrorless with fast focus and 4K video recording</b>\n<br>\n<br><b>PRODUCT HIGHLIGHTS\n</b><br>24.2MP APS-C Exmor CMOS sensor\n<br>BIONZ X image processor\n<br>Up to 11fps high speed shooting and Fast Hybrid AF\n<br>Internal UHD 4K 30p &amp; Full HD 120p recording\n<br>3\" LCD screen and bright OLED viewfinder&nbsp;<br>Wi-Fi, NFC, and QR code compatibility\n<br>425 phase-detection AF points\n<br>ISO auto minimum shutter speed\n<br>16-50mm f/3.5-5.6 lens supplied<br>",
+                "text": "<b>Compact mirrorless with fast focus and 4K video and vlog recording</b>\n<br>\n<br><b>PRODUCT HIGHLIGHTS\n</b><br>24.2MP APS-C Exmor CMOS sensor\n<br>BIONZ X image processor\n<br>Real-time tracking AF and Eye AF<br>Internal UHD 4K 30p &amp; Full HD 120p recording\n<br>3\" full-tilting LCD screen and bright OLED viewfinder&nbsp;<br>Wi-Fi, NFC, and QR code compatibility\n<br>Ultra high-speed 425 phase-detection point AF&nbsp;<br>ISO expandable from 100 to 102400<br>16-50mm f/3.5-5.6 lens supplied<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
@@ -585,6 +585,23 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<b>Great value Handycam with Full HD video and 30x zoom&nbsp;</b><br>\n<b><br>PRODUCT HIGHLIGHTS \n</b><br>Full HD video <br>9.2MP still image capture&nbsp;<br>Exmor R CMOS sensor\n<br>Bionz X processor\n<br>Zeiss 30x optical zoom lens\n<br>Optical Steady Shot image stabilization\n<br>XAVC S recording, AVCHD, and MP4\n<br>2.7\" flip-out LCD viewscreen<br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/a7r-3-front-mid-1920x1080.png",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-7",
+                "customStyle3": "display-4",
+                "title": "A9",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "<b>High-performance full frame professional mirrorless camera&nbsp;</b><br>\n<b><br>PRODUCT HIGHLIGHTS \n</b><br>Back-illuminated 24 MP full-frame sensor\n<br>BIONZ X image processor and enhanced Front-End LSI&nbsp;<br>Up to 20fps, black-out free, with AF/AE tracking\n<br>4K UHD video recording<br>3\" LCD touch screen and&nbsp;bright OLED viewfinder&nbsp;<br>Built-In Wi-Fi, LAN, PC-Sync and NFC Functionality\n<br>In-body 5-axis image stabilization\n<br>Dual SD slots&nbsp;<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ]
@@ -1785,7 +1802,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/sel70200g-1920x1080.png",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -1798,6 +1815,40 @@
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "70-200mm focal length<br>F4<br>E-mount, Full frame format<br><br><b>A premium G-lens zoom for nature, sports, and other photography<br> that require a bit more “reach” than mid-range zoom provides.</b>&nbsp;<br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sel24f14gm-1920x1080.png",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-7",
+                "customStyle3": "display-4",
+                "title": "SEL24F14GM",
+                "overlay": true,
+                "contentAlign": "right",
+                "text": "24mm focal length<br>F1.4<br>E-mount, Full frame format<br><br><b>The lightest and most compact lens in its class, but with </b><br><b>outstanding G-Master quality for professional wide angle shooting.</b>&nbsp;<br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sel135f18gm-1920x1080.png",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-7",
+                "customStyle3": "display-4",
+                "title": "SEL135F18GM",
+                "overlay": true,
+                "contentAlign": "right",
+                "text": "135mm focal length<br>F1.8<br>E-mount, Full frame format<br><br><b>The ultimate portraiture and mid-telephoto lens with </b><br><b>stunning low-light&nbsp;</b><b>and high-speed focusing performance.</b>&nbsp;<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ]
